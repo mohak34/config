@@ -1,0 +1,6 @@
+theme = catppuccin-mocha
+background-opacity = 0.9
+
+font-family = JetBrains Mono
+font-size = 11
+font-style = "bold"
